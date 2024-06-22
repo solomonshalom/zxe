@@ -1,16 +1,10 @@
-# Astro & Tailwind CSS Template
+# ZXE
 
-Built by [Mike Andreuzza](https://michaelandreuzza.com) with Astro & Tailwind CSS under the [Creative Commons Attribution license](https://windbasics.com/license)
+[ZXE](zxe.solomonlijo.com)'s Official Website, based on [Gurido](https://github.com/michael-andreuzza/gurido), built by [Michael Andreuzza](https://michaelandreuzza.com/)
 
 ### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by/3.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by/3.0/#).
 
 Extended version on LICENSE file.
-
-## Need an attribution-free version?
-
-Checkout [Lexington Themes](https://lexingtonthemes.com/) for free and premium multipage themes & UI Kits
-For freelancers, developers, businesses, and personal use.
-Beautifully crafted with Astro.js, and Tailwind CSS — Simple & easy to customise.
 
 ## Template Structure
 
