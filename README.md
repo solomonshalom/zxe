@@ -2,9 +2,6 @@
 
 [ZXE](zxe.solomonlijo.com)'s Official Website, based on [Gurido](https://github.com/michael-andreuzza/gurido), built by [Michael Andreuzza](https://michaelandreuzza.com/)
 
-### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by/3.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by/3.0/#).
-
-Extended version on LICENSE file.
 
 ## Template Structure
 
@@ -34,5 +31,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview` | Preview your build locally, before deploying |
 | `npm run astro ...` | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI |
-
-# [Wind Basics](https://windbasics.com/)
